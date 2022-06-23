@@ -1,6 +1,3 @@
-# TOPICOS-ESPECIAIS-EM-PROGRAMACAO
- ads-ifpi
- 
 # Projeto-DANGER-SPACE
 :video_game: Recriação do Jogo Clássico baseando em um shmup básico
 
